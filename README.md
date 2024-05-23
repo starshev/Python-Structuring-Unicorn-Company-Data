@@ -1,4 +1,4 @@
-## EDA and Data Structuring with Python - Unicorns Data ##
+# EDA & Data Structuring with Python · Unicorns
 
 This project involves data wrangling, exploratory analysis with the Pandas library, and data structuring methods.
 
