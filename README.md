@@ -1,9 +1,12 @@
 # Data Structuring with Python · Unicorns
 
-This project involves data wrangling, exploratory analysis with the Pandas library, and data structuring methods.
+### Skills
 
-It simulates a workplace scenario where a fictional team analyzes financial data on unicorn companies — those valued at over one billion dollars.
+Data wrangling
+Exploratory data analysis
+Data structuring, data
+Drawing data-driven conclusions supported by visualizations
 
-The project comprises four tasks across various research areas, drawing conclusions supported by visualizations, all using Python.
+### Context 
 
-The work was conducted using Jupyter Notebooks and presented in PDF format.
+Analyzing financial data on unicorn companies — those valued at over one billion dollars.
