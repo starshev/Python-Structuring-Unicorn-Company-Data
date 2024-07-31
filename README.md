@@ -2,8 +2,8 @@
 
 ### Skills
 
-Data wrangling
-Exploratory data analysis
+Data wrangling /
+Exploratory data analysis /
 Data structuring, data
 Drawing data-driven conclusions supported by visualizations
 
