@@ -1,4 +1,4 @@
-# Structuring unicorn company data with Python
+# Structuring Unicorn Company Data with Python
 
 ### Task  
 Analyze financial metrics of unicorn companies (valued over $1 billion). Perform data wrangling, cleaning, and structuring with a focus on exploratory data analysis (EDA) and visualization to uncover trends and insights.
