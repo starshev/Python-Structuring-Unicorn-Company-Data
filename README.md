@@ -1,13 +1,15 @@
-# Data Structuring with Python · Unicorns
+# Structuring unicorn company data with Python
 
-### Project Overview  
-Performed data analysis on financial metrics of unicorn companies (valued over $1 billion). The project involved data wrangling, cleaning, and structuring, with a focus on exploratory data analysis (EDA) and visualizing key financial indicators to uncover trends and insights.  
-  
-### Key Skills  
-Data wrangling, EDA, data cleaning, structuring, and drawing data-driven conclusions with visualizations.  
+### Task  
+Analyze financial metrics of unicorn companies (valued over $1 billion). Perform data wrangling, cleaning, and structuring with a focus on exploratory data analysis (EDA) and visualization to uncover trends and insights.
 
-### Описание проекта
-Выполнил анализ финансовых показателей компаний-«единорогов» (оценённых более чем в 1 миллиард долларов). Проект включал обработку данных, очистку и структурирование, с фокусом на исследовательский анализ данных (EDA) и визуализацию ключевых финансовых показателей для выявления трендов и инсайтов.
+### Skills  
+Data wrangling, data cleaning, exploratory data analysis (EDA), data structuring, drawing insights through visualizations.
 
-### Ключевые навыки
-Обработка данных, EDA, очистка данных, структурирование данных и выводы на основе данных с использованием визуализаций.
+# Структурирование данных компаний-«единорогов» с использованием Python
+
+### Задача  
+Проанализировать финансовые показатели компаний-«единорогов» (оценённых более чем в 1 млрд долларов). Провести обработку, очистку и структурирование данных с акцентом на исследовательский анализ (EDA) и визуализацию для выявления трендов и инсайтов.
+
+### Навыки  
+Обработка данных, очистка, исследовательский анализ данных (EDA), структурирование данных, визуализация и формулирование выводов на основе данных.
